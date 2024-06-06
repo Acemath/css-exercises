@@ -3,3 +3,18 @@
     font-family: 'Verdana', 'DejaVu Sans', sans-serif;
 
 }
+
+#number2 {
+    color: #0000FF;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: hsl(130, 91%, 78%);
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.number3 {
+    font-size: 24px;
+}
